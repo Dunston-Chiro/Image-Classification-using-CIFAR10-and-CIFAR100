@@ -11,7 +11,7 @@ The dataset was originally divided in 5 training batches with 10000 images per b
 ### Content
 Here is the list of the 10 classes in the CIFAR-10:
 
-Classes:
+#### Classes:
 1) 0: airplane
 2) 1: automobile
 3) 2: bird
@@ -31,7 +31,7 @@ The meta file contains the label names of each class and superclass.
 ### Content
 Here is the list of the 100 classes in the CIFAR-100:
 
-Classes:
+#### Classes:
 1-5) beaver, dolphin, otter, seal, whale <br>
 6-10) aquarium fish, flatfish, ray, shark, trout <br>
 11-15) orchids, poppies, roses, sunflowers, tulips <br>
